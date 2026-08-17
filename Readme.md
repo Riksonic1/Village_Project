@@ -15,13 +15,13 @@ They have memories, goals, personalities and relationships with one another.
 **Ideas in mind:**
 
 More in-depth relationships
-Random events
-UI with pixel art per character and time of day
-Goal updates based on important interactions
-Importance of memories selected per character, and some general ones
-Add tools for more advanced input and output, instead of a textual description
-Add needs such as hunger, sleep, stress, social, vitality, happiness etc
-Create a more dynamic environment
+- Random events
+- UI with pixel art per character and time of day
+- Goal updates based on important interactions
+- Importance of memories selected per character, and some general ones
+- Add tools for more advanced input and output, instead of a textual description
+- Add needs such as hunger, sleep, stress, social, vitality, happiness etc
+- Create a more dynamic environment
 
 
 
