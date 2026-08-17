@@ -1,0 +1,9 @@
+.env
+.env.*
+Village_Data*
+OldVillage.py
+Village.py
+VillageSetup.py
+__pycache__/
+*.pyc
+*.pyo
