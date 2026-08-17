@@ -14,7 +14,7 @@ They have memories, goals, personalities and relationships with one another.
 
 **Ideas in mind:**
 
-More in-depth relationships
+- More in-depth relationships
 - Random events
 - UI with pixel art per character and time of day
 - Goal updates based on important interactions
